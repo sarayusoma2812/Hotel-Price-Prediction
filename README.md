@@ -29,14 +29,15 @@ For predictive modeling, we utilized machine learning algorithms such as Linear 
 
 ## 4. Research Questions
 
-How do the hotel's cancellation policies and instant booking options relate to the number of guests checking in?
-Can a host's longevity in the hospitality business be linked to their willingness to verify their identity and showcase a profile picture?
-Determine which attributes exhibit the most substantial impact on predicting hotel prices.
-Explore the influence of room type and accommodation capacity on pricing.
-Investigate the relationship between host-related attributes and pricing.
-Determine whether there is an association between the type of bed provided in listings and their pricing.
-Analyze the correlation between the number of amenities offered and pricing.
-Explore how review scores and the number of reviews impact pricing.
+•	How do the hotel's cancellation policies and instant booking options relate to the number of guests checking in?
+•	Can a host's longevity in the hospitality business be linked to their willingness to verify their identity and showcase a profile picture?
+•	Determine which attributes exhibit the most substantial impact on predicting hotel prices.
+•	Explore the influence of room type and accommodation capacity on pricing.
+•	Investigate the relationship between host-related attributes and pricing.
+•	Determine whether there is an association between the type of bed provided in listings and their pricing.
+•	Analyze the correlation between the number of amenities offered and pricing.
+•	Explore how review scores and the number of reviews impact pricing.
+
 
 ## 5. Conclusion
 
