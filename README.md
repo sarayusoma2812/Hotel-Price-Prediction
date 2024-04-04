@@ -13,7 +13,7 @@ The objective of this project is to utilize the power of data analysis to build 
 ## 3. Methodology
 
 ### a. Data Collection
-We sourced our dataset from the expansive [Data World Repository] (https://data.world/), which offers a wealth of information relevant to our project objectives. This dataset comprises 29 columns and more than 74,000 records, including attributes such as property type, amenities, room type, accommodates, number of bathrooms, cleaning fee, cancellation policy, city, review score rating, and more.
+We sourced our dataset from the expansive [Data World Repository](https://data.world/), which offers a wealth of information relevant to our project objectives. This dataset comprises 29 columns and more than 74,000 records, including attributes such as property type, amenities, room type, accommodates, number of bathrooms, cleaning fee, cancellation policy, city, review score rating, and more.
 
 ### b. Data Exploration and Cleaning
 
